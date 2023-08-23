@@ -7,7 +7,7 @@ I enjoy bringing a static design or idea to life and learning new technologies.
 
 
 🛠️ LANGUAGES & TOOLS :
-HTML  CSS  JavaScript  java VSCode Springboot
+HTML, CSS, JavaScript,  java, VSCode, Springboot 
 📖 CURRENTLY LEARNING :
  React js
 
