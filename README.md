@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shivam+Chauhan;Full+Stack+Developer;Web+App+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shivam+Chauhan;Full+Stack+Developer;Web+App+[...]" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Full-Stack Developer from India | Building amazing web experiences</h3>
@@ -18,10 +18,10 @@
 
 ## 💼 About Me
 
-- 🌱 **Currently Learning:** Node.js • Express.js • MongoDB • React.js • TypeScript
-- 💻 **Specialization:** Full-Stack Web Development | MERN Stack | Java Backend
-- 🎯 **Passion:** Building scalable, user-friendly web applications
-- 📚 **Always Improving:** Contributing to open-source projects
+- 💻 **Experience:** Full-Stack Web Developer with 2+ years of professional experience
+- 🎯 **Specialization:** Full-Stack Web Development | MERN Stack | Java Backend
+- 🚀 **Expertise:** Building scalable, user-friendly web applications with modern technologies
+- 📚 **Commitment:** Contributing to open-source projects and continuous learning
 - 🌐 **Portfolio:** [https://shivamchauhan12.github.io/myPortfolio/](https://shivamchauhan12.github.io/myPortfolio/)
 - 📧 **Email:** shivamchauhan5733@gmail.com
 
@@ -62,6 +62,9 @@
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" />
+  </a>
 </p>
 
 ### **Databases & Tools**
@@ -79,54 +82,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
   </a>
 </p>
-
----
-
-## 📂 Featured Projects
-
-### 💬 **Chat Application** 
-Full-featured real-time chat application with modern UI and robust backend
-- 🔗 **Frontend:** [chat-app-frontend](https://github.com/Shivamchauhan12/chat-app-frontend) - TypeScript/React
-- 🔗 **Backend:** [chat-app-backend](https://github.com/Shivamchauhan12/chat-app-backend) - TypeScript/Node.js
-
-### 📚 **EdTech Platform**
-Comprehensive e-learning platform for course management and student engagement
-- 🔗 **Frontend:** [Edtech-Frontend](https://github.com/Shivamchauhan12/Edtech-Frontend) - JavaScript/React
-- 🔗 **Backend:** [Edtech-backend](https://github.com/Shivamchauhan12/Edtech-backend) - JavaScript/Node.js
-
-### 🏦 **Banking Applications**
-Multiple implementations of banking systems with different technologies:
-- 🔗 **JDBC Implementation:** [JDBCBankApplication](https://github.com/Shivamchauhan12/JDBCBankApplication) - Java/JDBC
-- 🔗 **Hibernate Implementation:** [Bankapplication-using-Hibernate](https://github.com/Shivamchauhan12/Bankapplication-using-Hibernate) - Java/Hibernate
-
-### 👥 **Employee Management Systems**
-Professional employee management solutions with database integration:
-- 🔗 **JDBC Version:** [EmployeeManagementApplicationUsingJDBC](https://github.com/Shivamchauhan12/EmployeeManagementApplicationUsingJDBC) - Java/JDBC
-- 🔗 **Hibernate Version:** [EmployeeManagementUsingHibernate](https://github.com/Shivamchauhan12/EmployeeManagementUsingHibernate) - Java/Hibernate
-
-### 🎵 **Music Web App**
-Streaming and music management application
-- 🔗 [music-web-app](https://github.com/Shivamchauhan12/music-web-app) - TypeScript/React
-
-### 💰 **Smart Price Finder**
-Multi-source price comparison and review aggregation tool
-- 🔗 [smart-price-find](https://github.com/Shivamchauhan12/smart-price-find) - Python
-- 📌 Get prices, reviews, and videos from multiple sources at a single place
-
-### 📨 **Message & Feedback Application**
-Interactive feedback collection and messaging system
-- 🔗 [message-feedback-getter-application](https://github.com/Shivamchauhan12/message-feedback-getter-application) - TypeScript
-
-### 🏥 **HealthCure**
-Healthcare platform with modern web technologies
-- 🔗 [Healthcure](https://github.com/Shivamchauhan12/Healthcure) - HTML/CSS/JavaScript
-
-### 🎯 **Other Projects**
-- 🔗 [PDF Extractor](https://github.com/Shivamchauhan12/Pdf_Extractor) - JavaScript | Extract and process PDF data
-- 🔗 [Number Guessing Game](https://github.com/Shivamchauhan12/NumberGuessing) - Interactive game
-- 🔗 [Portfolio Website](https://github.com/Shivamchauhan12/myPortfolio) - Personal showcase
-- 🔗 [Onboarding APIs](https://github.com/Shivamchauhan12/Onboarding-Api-s-node-js) - Node.js/JavaScript
-- 🔗 [Java Learning](https://github.com/Shivamchauhan12/Java) - Core Java programs
 
 ---
 
