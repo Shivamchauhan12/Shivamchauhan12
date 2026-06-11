@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shivam+Chauhan;Full+Stack+Developer;Web+App+[...]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Shivam+Chauhan;Full+Stack+Developer;MERN+|+Java+Backend" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Passionate Full-Stack Developer from India | Building amazing web experiences</h3>
+<h3 align="center">🚀 Passionate Full-Stack Developer from India | Building Scalable Web Experiences</h3>
 
 ---
 
@@ -18,11 +18,11 @@
 
 ## 💼 About Me
 
-- 💻 **Experience:** Full-Stack Web Developer with 2+ years of professional experience
-- 🎯 **Specialization:** Full-Stack Web Development | MERN Stack | Java Backend
-- 🚀 **Expertise:** Building scalable, user-friendly web applications with modern technologies
-- 📚 **Commitment:** Contributing to open-source projects and continuous learning
-- 🌐 **Portfolio:** [https://shivamchauhan12.github.io/myPortfolio/](https://shivamchauhan12.github.io/myPortfolio/)
+- 💻 **Experience:** Full-Stack Web Developer with 2+ years of professional engineering experience.
+- 🎯 **Specialization:** End-to-end web architectures, combining Robust Java/Node.js backends with responsive UI layers.
+- 🚀 **Core Expertise:** Building scalable microservices, secure RESTful APIs, and optimizing database performance.
+- 📚 **Commitment:** Passionate about clean code practices, contributing to open-source, and continuous deployment pipelines.
+- 🌐 **Portfolio:** [shivamchauhan12.github.io/myPortfolio/](https://shivamchauhan12.github.io/myPortfolio/)
 - 📧 **Email:** shivamchauhan5733@gmail.com
 
 ---
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
@@ -47,11 +47,11 @@
 
 ### **Frontend Development**
 <p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
@@ -59,27 +59,27 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
   </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
   </a>
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
   </a>
 </p>
 
-### **Databases & Tools**
+### **Databases & DevOps**
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
   </a>
 </p>
 
@@ -96,15 +96,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamchauhan12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+### 🐍 Contribution Graph Animation
+<div align="center">
+  <img src="https://github.com/shivamchauhan12/shivamchauhan12/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.style.display='none'" />
+</div>
+
 ---
 
-## 🎯 Current Goals
+## 🎯 Current Engineering Focus
 
-- ✅ Master MERN Stack development
-- ✅ Build scalable microservices architecture
-- ✅ Contribute to open-source projects
-- ✅ Develop mobile-responsive applications
-- ✅ Learn cloud deployment (AWS, GCP, Azure)
+- 🏗️ **Architecture:** Deep-diving into Microservices and Event-Driven systems.
+- ☁️ **Cloud Infrastructure:** Implementing automated pipelines and container orchestrations (Docker / Kubernetes / AWS).
+- 🛠️ **System Design:** Optimizing large-scale database architectures using MySQL and MongoDB caching strategies.
+- 👥 **Community:** Actively collaborating on high-impact open-source web ecosystems.
 
 ---
 
@@ -112,13 +116,7 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/shivam-chauhan-3a5b2a24b" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/jaat_.shivamchauhan3062" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/shivamchauhan12" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shivamchauhan5733@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -138,9 +136,5 @@
 ---
 
 <div align="center">
-  <strong>💖 Thanks for visiting my profile! Feel free to explore my projects and connect with me. Happy coding! 🚀</strong>
+  <strong>💖 Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. Happy coding! 🚀</strong>
 </div>
-
-```
-Made with ❤️ by Shivam Chauhan
-```
